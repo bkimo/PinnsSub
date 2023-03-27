@@ -100,7 +100,7 @@ sklearn-contrib-py-earth==0.1.0
 sobol-seq==0.1.2
 tensorboard==2.1.1
 tensorboardX==2.0
-tensorflow==2.1.0
+tensorflow==2.11.1
 tensorflow-addons==0.10.0
 tensorflow-datasets==3.1.0
 tensorflow-estimator==2.1.0
